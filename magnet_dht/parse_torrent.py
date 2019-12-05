@@ -5,7 +5,7 @@ import os
 import codecs
 from pprint import pprint
 
-from bencoder import bdecode
+from bencode import bdecode
 
 TORRENT_SAVE_PATH = "torrents"
 
